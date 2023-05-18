@@ -1,0 +1,10 @@
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Interface Locadora.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Interface Locadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Locadora.Form2.resources
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Locadora.Form1.resources
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Locadora.Form3.resources
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Interface Locadora.csproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Interface Locadora.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Locadora.exe
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Locadora\obj\Debug\Locadora.pdb

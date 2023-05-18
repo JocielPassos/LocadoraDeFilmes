@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\WinForms\\WinForms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\Filmes\\Filmes.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\Filmes\\Filmes.csproj",
+        "projectName": "Filmes",
+        "projectPath": "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\Filmes\\Filmes.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\WinForms\\WinForms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\WinForms\\WinForms.csproj",
+        "projectName": "WinForms",
+        "projectPath": "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\WinForms\\WinForms.csproj",
+        "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\WinForms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\Filmes\\Filmes.csproj": {
+                "projectPath": "C:\\Users\\ALUNO\\source\\repos\\ProjetoLocadora\\Filmes\\Filmes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

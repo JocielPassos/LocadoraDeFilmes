@@ -1,0 +1,6 @@
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Genero1\bin\Debug\Genero1.dll
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Genero1\bin\Debug\Genero1.pdb
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Genero1\obj\Debug\Genero.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Genero1\obj\Debug\Genero.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Genero1\obj\Debug\Genero1.dll
+C:\Users\ALUNO\source\repos\ProjetoLocadora\Genero1\obj\Debug\Genero1.pdb
